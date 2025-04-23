@@ -14,4 +14,3 @@ https://mlu-explain.github.io/logistic-regression/
 https://developer.ibm.com/articles/implementing-logistic-regression-from-scratch-in-python/
 https://www.sciencedirect.com/science/article/abs/pii/S095219762030004X
 https://www.linkedin.com/pulse/balancing-act-navigating-precision-vs-recall-ai-emily-ux75c#:~:text=In%20healthcare%2C%20these%20metrics%20serve,diagnosis%20could%20have%20severe%20consequences.
-![Uploading image.png…]()
