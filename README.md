@@ -1,6 +1,8 @@
 # ResearchSymposium2025
 ## Predicting Anxiety Severity from Social Media Use: Differential Evolution as an Optimizer
 ## Micah Tracy
+https://www.linkedin.com/in/micah-tracy-b91a25238  
+mdt00017@mix.wvu.edu
 
 ### Abstract
 Anxiety disorders are the most common mental health disorder worldwide, affecting an estimated 4% of the global population. Various studies have shown that social media use may contribute to heightened anxiety. Using information about individuals’ social media use, we wish to predict the probability that they have moderate to severe anxiety. This project uses differential evolution as an optimizer to train a logistic regression model. Differential evolution is a population-based evolutionary algorithm that works in two phases: initialization and evolution. The initialization phase randomly generates a uniformly distributed population, which undergoes mutation, crossover, and selection within the evolution phase until a stopping criterion is met. We will compare the performance of logistic regression using a traditional optimization method versus differential evolution, in hopes that the latter will lead to comparable, if not better, results. Further work could include the implementation of differential evolution as an optimizer in PyTorch for use in neural networks, since it is not currently supported. By showing social media’s impact on an individual’s probability of having moderate to severe anxiety, we see that it is important for social media users to be mindful of how their use of these social media platforms affects their mental health. In turn, hopefully this prompts them to make changes concerning their time on social media, or to turn to a medical professional for help. 
